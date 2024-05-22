@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Peijie Diao (刁培杰) @Do1e"
 title_separator          : "-"
 name                     : &name "Peijie Diao"
 description              : &description ""
@@ -22,7 +22,7 @@ repository               : "do1e/do1e.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Peijie Diao"
+  name             : "Peijie Diao (刁培杰) @Do1e"
   pronouns         : # example: "she/her"
   bio              : "Doctoral student at Nanjing University"
   location         : "Nanjing, China"
