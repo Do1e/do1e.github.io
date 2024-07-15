@@ -10,7 +10,7 @@ redirect_from:
 ## Hi, I'm Peijie Diao.
 
 - I'm a doctoral student at [School of Electronic Science and Technology](https://ese.nju.edu.cn/), [NJU](https://www.nju.edu.cn/), major in signal processing.
-- I'm reasearching on **AI Codec** in [CITE](https://cite.nju.edu.cn/) Lab.
+- I'm reasearching on **AI Codec** in [CITE](https://cite.nju.edu.cn/) Lab. My supervisors are [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html) and [Assoc. Prof. Qiu Shen](https://www.do1e.cn/shenqiu/).
 - My main coding language is **Python**, but I'm also familiar with C, C++, MATLAB.
 
 ## Websites
