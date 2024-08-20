@@ -19,3 +19,8 @@ redirect_from:
 - [Temporary sharing files](https://filebox.nju.do1e.cn/) for NJU network
 - [Temporary sharing files](https://filebox.cloud.do1e.cn/) for public network
 - [Introduction to AI Codec](https://do1e.notion.site/AI-Codec-5833076b1970436fade9e8684655b15a)
+
+## Python Packages
+
+- [NJUlogin](https://pypi.org/project/NJUlogin/)
+- [mijiaAPI](https://pypi.org/project/mijiaAPI/)
