@@ -16,9 +16,7 @@ redirect_from:
 
 ## Websites
 
-- [Sharing files](https://alist.nju.do1e.cn) only for NJU network
-- [Temporary sharing files](https://filebox.nju.do1e.cn/) for NJU network
-- [Temporary sharing files](https://filebox.cloud.do1e.cn/) for public network
+- [Sharing files](https://alist.cloud.do1e.cn)
 - [Status of NJU Xianlin Campus charging piles](https://www.do1e.cn/charge.html)
 - [Introduction to AI Codec](https://do1e.notion.site/AI-Codec-5833076b1970436fade9e8684655b15a)
 
