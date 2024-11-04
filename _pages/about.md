@@ -16,7 +16,7 @@ redirect_from:
 
 ## Websites
 
-- [Sharing files](https://alist.cloud.do1e.cn)
+- [Sharing files](https://alist.do1e.cn)
 - [Status of NJU Xianlin Campus charging piles](https://www.do1e.cn/charge.html)
 - [Introduction to AI Codec](https://do1e.notion.site/AI-Codec-5833076b1970436fade9e8684655b15a)
 
